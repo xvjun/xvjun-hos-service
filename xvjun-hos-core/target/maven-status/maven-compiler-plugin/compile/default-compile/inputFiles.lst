@@ -1,0 +1,13 @@
+E:\Java\xvjun-hos-service\xvjun-hos-core\src\main\java\com\xvjun\bigdata\hos\core\usermgr\model\UserInfo.java
+E:\Java\xvjun-hos-service\xvjun-hos-core\src\main\java\com\xvjun\bigdata\hos\core\authmgr\service\Impl\AuthServiceImpl.java
+E:\Java\xvjun-hos-service\xvjun-hos-core\src\main\java\com\xvjun\bigdata\hos\core\usermgr\HosUsermgrException.java
+E:\Java\xvjun-hos-service\xvjun-hos-core\src\main\java\com\xvjun\bigdata\hos\core\usermgr\dao\UserInfoMapper.java
+E:\Java\xvjun-hos-service\xvjun-hos-core\src\main\java\com\xvjun\bigdata\hos\core\usermgr\model\SystemRole.java
+E:\Java\xvjun-hos-service\xvjun-hos-core\src\main\java\com\xvjun\bigdata\hos\core\authmgr\service\IAuthService.java
+E:\Java\xvjun-hos-service\xvjun-hos-core\src\main\java\com\xvjun\bigdata\hos\core\authmgr\dao\ServiceAuthMapper.java
+E:\Java\xvjun-hos-service\xvjun-hos-core\src\main\java\com\xvjun\bigdata\hos\core\authmgr\model\ServiceAuth.java
+E:\Java\xvjun-hos-service\xvjun-hos-core\src\main\java\com\xvjun\bigdata\hos\core\usermgr\service\IUserService.java
+E:\Java\xvjun-hos-service\xvjun-hos-core\src\main\java\com\xvjun\bigdata\hos\core\authmgr\model\TokenInfo.java
+E:\Java\xvjun-hos-service\xvjun-hos-core\src\main\java\com\xvjun\bigdata\hos\core\authmgr\dao\TokenInfoMapper.java
+E:\Java\xvjun-hos-service\xvjun-hos-core\src\main\java\com\xvjun\bigdata\hos\core\authmgr\HosAuthmgrException.java
+E:\Java\xvjun-hos-service\xvjun-hos-core\src\main\java\com\xvjun\bigdata\hos\core\usermgr\service\Impl\UserServiceImpl.java

@@ -1,0 +1,13 @@
+com\xvjun\bigdata\hos\core\authmgr\service\IAuthService.class
+com\xvjun\bigdata\hos\core\usermgr\service\IUserService.class
+com\xvjun\bigdata\hos\core\authmgr\model\ServiceAuth.class
+com\xvjun\bigdata\hos\core\usermgr\service\Impl\UserServiceImpl.class
+com\xvjun\bigdata\hos\core\authmgr\HosAuthmgrException.class
+com\xvjun\bigdata\hos\core\authmgr\model\TokenInfo.class
+com\xvjun\bigdata\hos\core\authmgr\dao\ServiceAuthMapper.class
+com\xvjun\bigdata\hos\core\usermgr\dao\UserInfoMapper.class
+com\xvjun\bigdata\hos\core\usermgr\HosUsermgrException.class
+com\xvjun\bigdata\hos\core\authmgr\service\Impl\AuthServiceImpl.class
+com\xvjun\bigdata\hos\core\usermgr\model\SystemRole.class
+com\xvjun\bigdata\hos\core\authmgr\dao\TokenInfoMapper.class
+com\xvjun\bigdata\hos\core\usermgr\model\UserInfo.class

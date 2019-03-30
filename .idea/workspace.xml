@@ -1,0 +1,1579 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="7ff16721-e650-44b9-b882-a8745b60f497" name="Default" comment="" />
+    <ignored path="$PROJECT_DIR$/out/" />
+    <ignored path="$PROJECT_DIR$/target/" />
+    <ignored path="$PROJECT_DIR$/xvjun-hos-common/target/" />
+    <ignored path="$PROJECT_DIR$/xvjun-hos-core/target/" />
+    <ignored path="$PROJECT_DIR$/xvjun-hos-mybatis/target/" />
+    <ignored path="$PROJECT_DIR$/xvjun-hos-sdk/target/" />
+    <ignored path="$PROJECT_DIR$/xvjun-hos-server/target/" />
+    <ignored path="$PROJECT_DIR$/xvjun-hos-web/target/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file leaf-file-name="HosClient.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/xvjun-hos-sdk/src/main/java/com/xvjun/bigdata/hos/sdk/HosClient.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="704">
+              <caret line="37" column="48" selection-start-line="37" selection-start-column="48" selection-end-line="37" selection-end-column="48" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="HosClientFactory.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/xvjun-hos-sdk/src/main/java/com/xvjun/bigdata/hos/sdk/HosClientFactory.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="286">
+              <caret line="14" column="51" selection-start-line="14" selection-start-column="51" selection-end-line="14" selection-end-column="51" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="HosClientImpl.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/xvjun-hos-sdk/src/main/java/com/xvjun/bigdata/hos/sdk/HosClientImpl.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="824">
+              <caret line="479" column="75" lean-forward="true" selection-start-line="479" selection-start-column="75" selection-end-line="479" selection-end-column="75" />
+              <folding>
+                <element signature="imports" expanded="true" />
+                <element signature="method#HosClientImpl#0;class#HosClientImpl#0" />
+                <element signature="method#deleteBucket#0;class#HosClientImpl#0" />
+                <element signature="method#listBucket#0;class#HosClientImpl#0" />
+                <element signature="method#buildHeaders#0;class#HosClientImpl#0" />
+                <element signature="method#putObject#0;class#HosClientImpl#0" />
+                <element signature="method#putObject#1;class#HosClientImpl#0" />
+                <element signature="method#putObject#2;class#HosClientImpl#0" />
+                <element signature="method#getObjectSummary#0;class#HosClientImpl#0" />
+                <element signature="method#deleteObject#0;class#HosClientImpl#0" />
+                <element signature="method#putObject#3;class#HosClientImpl#0" />
+                <element signature="method#putObject#4;class#HosClientImpl#0" />
+                <element signature="method#putObject#5;class#HosClientImpl#0" />
+                <element signature="method#putObject#6;class#HosClientImpl#0" />
+                <element signature="method#listObject#0;class#HosClientImpl#0" />
+                <element signature="method#listObject#1;class#HosClientImpl#0" />
+                <element signature="method#listObjectByPrefix#0;class#HosClientImpl#0" />
+                <element signature="method#listObjectByDir#0;class#HosClientImpl#0" />
+                <element signature="docComment;method#getObject#0;class#HosClientImpl#0" />
+                <element signature="method#getObject#0;class#HosClientImpl#0" />
+                <element signature="method#buildMetaData#0;class#HosClientImpl#0" />
+                <element signature="method#createBucket#1;class#HosClientImpl#0" />
+                <element signature="method#getBucketInfo#0;class#HosClientImpl#0" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="MimeUtil.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/xvjun-hos-sdk/src/main/java/com/xvjun/bigdata/hos/sdk/MimeUtil.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="220">
+              <caret line="12" column="79" selection-start-line="12" selection-start-column="69" selection-end-line="12" selection-end-column="79" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="mime.types" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/xvjun-hos-sdk/src/main/resources/mime.types">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="1716">
+              <caret line="78" column="42" selection-start-line="78" selection-start-column="42" selection-end-line="78" selection-end-column="42" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="HosSdkTest.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/xvjun-hos-sdk/src/main/java/com/xvjun/bigdata/hos/sdk/HosSdkTest.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="308">
+              <caret line="14" column="25" selection-start-line="14" selection-start-column="25" selection-end-line="14" selection-end-column="25" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="ListObjectRequest.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/xvjun-hos-common/src/main/java/com/xvjun/bigdata/hos/common/ObjectUtil/ListObjectRequest.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="242">
+              <caret line="11" column="31" selection-start-line="11" selection-start-column="31" selection-end-line="11" selection-end-column="31" />
+              <folding>
+                <element signature="e#311#312#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="IdUtil.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/xvjun-hos-common/src/main/java/com/xvjun/bigdata/hos/common/Utils/IdUtil.java">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file leaf-file-name="PutRequest.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/xvjun-hos-common/src/main/java/com/xvjun/bigdata/hos/common/ObjectUtil/PutRequest.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="616">
+              <caret line="29" column="29" selection-start-line="29" selection-start-column="29" selection-end-line="29" selection-end-column="29" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="pom.xml" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/xvjun-hos-sdk/pom.xml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="836">
+              <caret line="38" column="21" selection-start-line="38" selection-start-column="21" selection-end-line="38" selection-end-column="21" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Enum" />
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/xvjun-hos-server/src/main/java/com/xvjun/bigdata/hos/server/error/HosUsermgrException.java" />
+        <option value="$PROJECT_DIR$/xvjun-hos-server/src/main/java/com/xvjun/bigdata/hos/server/error/HosServerException.java" />
+        <option value="$PROJECT_DIR$/xvjun-hos-common/src/main/java/com/xvjun/bigdata/hos/common/Utils/HosUtils.java" />
+        <option value="$PROJECT_DIR$/xvjun-hos-common/pom.xml" />
+        <option value="$PROJECT_DIR$/xvjun-hos-server/src/main/java/com/xvjun/bigdata/hos/server/service/IHdfsService.java" />
+        <option value="$PROJECT_DIR$/xvjun-hos-server/src/main/java/com/xvjun/bigdata/hos/server/service/Impl/HdfsServiceImpl.java" />
+        <option value="$PROJECT_DIR$/xvjun-hos-server/src/test/java/test.java" />
+        <option value="$PROJECT_DIR$/xvjun-hos-common/src/main/java/com/xvjun/bigdata/hos/common/Utils/HbaseUtil.java" />
+        <option value="$PROJECT_DIR$/xvjun-hos-common/src/main/java/com/xvjun/bigdata/hos/common/ObjectUtil/ObjectMetaData.java" />
+        <option value="$PROJECT_DIR$/xvjun-hos-common/src/main/java/com/xvjun/bigdata/hos/common/ObjectUtil/HosObjectSummary.java" />
+        <option value="$PROJECT_DIR$/xvjun-hos-common/src/main/java/com/xvjun/bigdata/hos/common/ObjectUtil/ObjectListResult.java" />
+        <option value="$PROJECT_DIR$/xvjun-hos-server/src/main/java/com/xvjun/bigdata/hos/server/service/IHbaseService.java" />
+        <option value="$PROJECT_DIR$/xvjun-hos-server/src/main/java/com/xvjun/bigdata/hos/server/service/Impl/HbaseServiceImpl.java" />
+        <option value="$PROJECT_DIR$/xvjun-hos-common/src/main/java/com/xvjun/bigdata/hos/common/Utils/HosUtil.java" />
+        <option value="$PROJECT_DIR$/xvjun-hos-common/src/main/java/com/xvjun/bigdata/hos/common/Utils/JsonUtil.java" />
+        <option value="$PROJECT_DIR$/xvjun-hos-common/src/main/java/com/xvjun/bigdata/hos/common/ObjectUtil/HosObject.java" />
+        <option value="$PROJECT_DIR$/xvjun-hos-server/src/main/java/com/xvjun/bigdata/hos/server/service/IHosStoreService.java" />
+        <option value="$PROJECT_DIR$/xvjun-hos-web/src/main/java/com/xvjun/bigdata/hos/web/security/IOperationAccessControl.java" />
+        <option value="$PROJECT_DIR$/xvjun-hos-web/src/main/java/com/xvjun/bigdata/hos/web/security/DefaultOperationAccessControl.java" />
+        <option value="$PROJECT_DIR$/xvjun-hos-web/src/main/java/com/xvjun/bigdata/hos/web/rest/BaseController.java" />
+        <option value="$PROJECT_DIR$/xvjun-hos-web/src/main/java/com/xvjun/bigdata/hos/web/HosServerAPP.java" />
+        <option value="$PROJECT_DIR$/xvjun-hos-web/src/main/java/com/xvjun/bigdata/hos/web/rest/LoginController.java" />
+        <option value="$PROJECT_DIR$/xvjun-hos-web/src/main/java/com/xvjun/bigdata/hos/web/security/ContextUtil.java" />
+        <option value="$PROJECT_DIR$/xvjun-hos-core/src/main/java/com/xvjun/bigdata/hos/core/usermgr/model/SystemRole.java" />
+        <option value="$PROJECT_DIR$/xvjun-hos-web/src/main/java/com/xvjun/bigdata/hos/web/rest/ManageController.java" />
+        <option value="$PROJECT_DIR$/xvjun-hos-common/src/main/java/com/xvjun/bigdata/hos/common/HosHeaders.java" />
+        <option value="$PROJECT_DIR$/xvjun-hos-web/src/main/java/com/xvjun/bigdata/hos/web/rest/HosController.java" />
+        <option value="$PROJECT_DIR$/xvjun-hos-web/src/main/java/com/xvjun/bigdata/hos/web/security/SecurityIntercepter.java" />
+        <option value="$PROJECT_DIR$/xvjun-hos-web/src/main/resources/application.properties" />
+        <option value="$PROJECT_DIR$/xvjun-hos-server/src/main/java/com/xvjun/bigdata/hos/server/service/Impl/HosStoreServiceImpl.java" />
+        <option value="$PROJECT_DIR$/xvjun-hos-web/src/main/java/com/xvjun/bigdata/hos/web/ApplicationInitialization.java" />
+        <option value="$PROJECT_DIR$/xvjun-hos-web/src/main/java/com/xvjun/bigdata/hos/web/HosServerBeanConfiguration.java" />
+        <option value="$PROJECT_DIR$/xvjun-hos-web/src/main/java/com/xvjun/bigdata/hos/web/HosServerApp.java" />
+        <option value="$PROJECT_DIR$/xvjun-hos-mybatis/src/test/java/com/xvjun/bigdata/hos/mybatis/test/BaseTest.java" />
+        <option value="$PROJECT_DIR$/pom.xml" />
+        <option value="$PROJECT_DIR$/xvjun-hos-core/pom.xml" />
+        <option value="$PROJECT_DIR$/xvjun-hos-core/src/test/java/com/xvjun/bigdata/hos/core/test/service/AuthServiceTest.java" />
+        <option value="$PROJECT_DIR$/xvjun-hos-core/src/test/java/com/xvjun/bigdata/hos/core/test/service/UserServiceTest.java" />
+        <option value="$PROJECT_DIR$/xvjun-hos-server/pom.xml" />
+        <option value="$PROJECT_DIR$/xvjun-hos-server/src/test/java/com/xvjun/bigdata/hos/server/BucketMapperTest.java" />
+        <option value="$PROJECT_DIR$/xvjun-hos-web/pom.xml" />
+        <option value="$PROJECT_DIR$/xvjun-hos-sdk/pom.xml" />
+        <option value="$PROJECT_DIR$/xvjun-hos-common/src/main/java/com/xvjun/bigdata/hos/common/Utils/IdUtil.java" />
+        <option value="$PROJECT_DIR$/xvjun-hos-common/src/main/java/com/xvjun/bigdata/hos/common/ObjectUtil/PutRequest.java" />
+        <option value="$PROJECT_DIR$/xvjun-hos-common/src/main/java/com/xvjun/bigdata/hos/common/ObjectUtil/ListObjectRequest.java" />
+        <option value="$PROJECT_DIR$/xvjun-hos-sdk/src/main/java/com/xvjun/bigdata/hos/sdk/HosClient.java" />
+        <option value="$PROJECT_DIR$/xvjun-hos-sdk/src/main/java/com/xvjun/bigdata/hos/sdk/HosClientFactory.java" />
+        <option value="$PROJECT_DIR$/xvjun-hos-sdk/src/main/java/com/xvjun/bigdata/hos/sdk/MimeUtil.java" />
+        <option value="$PROJECT_DIR$/xvjun-hos-sdk/src/main/java/com/xvjun/bigdata/hos/sdk/HosClientImpl.java" />
+        <option value="$PROJECT_DIR$/xvjun-hos-sdk/src/main/resources/mime.types" />
+        <option value="$PROJECT_DIR$/xvjun-hos-sdk/src/main/java/com/xvjun/bigdata/hos/sdk/HosSdkTest.java" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="userSettingsFile" value="E:\apache-maven-3.5.3\conf\settings.xml" />
+      </MavenGeneralSettings>
+    </option>
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="MavenProjectNavigator">
+    <treeState>
+      <expand>
+        <path>
+          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
+          <item name="xvjun-hos-service" type="9519ce18:MavenProjectsStructure$ProjectNode" />
+        </path>
+        <path>
+          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
+          <item name="xvjun-hos-service" type="9519ce18:MavenProjectsStructure$ProjectNode" />
+          <item name="Lifecycle" type="58874e2:MavenProjectsStructure$LifecycleNode" />
+        </path>
+        <path>
+          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
+          <item name="xvjun-hos-service" type="9519ce18:MavenProjectsStructure$ProjectNode" />
+          <item name="Plugins" type="7aea1407:MavenProjectsStructure$PluginsNode" />
+        </path>
+      </expand>
+      <select />
+    </treeState>
+  </component>
+  <component name="NodePackageJsonFileManager">
+    <packageJsonPaths />
+  </component>
+  <component name="ProjectFrameBounds" extendedState="7">
+    <option name="x" value="1912" />
+    <option name="y" value="-8" />
+    <option name="width" value="1936" />
+    <option name="height" value="1056" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scope" />
+      <pane id="PackagesPane" />
+      <pane id="AndroidView" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="xvjun-hos-service" type="b2602c69:ProjectViewProjectNode" />
+              <item name="xvjun-hos-service" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="xvjun-hos-service" type="b2602c69:ProjectViewProjectNode" />
+              <item name="xvjun-hos-service" type="462c0819:PsiDirectoryNode" />
+              <item name="xvjun-hos-common" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="xvjun-hos-service" type="b2602c69:ProjectViewProjectNode" />
+              <item name="xvjun-hos-service" type="462c0819:PsiDirectoryNode" />
+              <item name="xvjun-hos-common" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="xvjun-hos-service" type="b2602c69:ProjectViewProjectNode" />
+              <item name="xvjun-hos-service" type="462c0819:PsiDirectoryNode" />
+              <item name="xvjun-hos-common" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="xvjun-hos-service" type="b2602c69:ProjectViewProjectNode" />
+              <item name="xvjun-hos-service" type="462c0819:PsiDirectoryNode" />
+              <item name="xvjun-hos-common" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="xvjun-hos-service" type="b2602c69:ProjectViewProjectNode" />
+              <item name="xvjun-hos-service" type="462c0819:PsiDirectoryNode" />
+              <item name="xvjun-hos-common" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="xvjun-hos-service" type="b2602c69:ProjectViewProjectNode" />
+              <item name="xvjun-hos-service" type="462c0819:PsiDirectoryNode" />
+              <item name="xvjun-hos-common" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+              <item name="xvjun" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="xvjun-hos-service" type="b2602c69:ProjectViewProjectNode" />
+              <item name="xvjun-hos-service" type="462c0819:PsiDirectoryNode" />
+              <item name="xvjun-hos-common" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+              <item name="xvjun" type="462c0819:PsiDirectoryNode" />
+              <item name="bigdata" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="xvjun-hos-service" type="b2602c69:ProjectViewProjectNode" />
+              <item name="xvjun-hos-service" type="462c0819:PsiDirectoryNode" />
+              <item name="xvjun-hos-common" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+              <item name="xvjun" type="462c0819:PsiDirectoryNode" />
+              <item name="bigdata" type="462c0819:PsiDirectoryNode" />
+              <item name="hos" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="xvjun-hos-service" type="b2602c69:ProjectViewProjectNode" />
+              <item name="xvjun-hos-service" type="462c0819:PsiDirectoryNode" />
+              <item name="xvjun-hos-common" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+              <item name="xvjun" type="462c0819:PsiDirectoryNode" />
+              <item name="bigdata" type="462c0819:PsiDirectoryNode" />
+              <item name="hos" type="462c0819:PsiDirectoryNode" />
+              <item name="common" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="xvjun-hos-service" type="b2602c69:ProjectViewProjectNode" />
+              <item name="xvjun-hos-service" type="462c0819:PsiDirectoryNode" />
+              <item name="xvjun-hos-common" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+              <item name="xvjun" type="462c0819:PsiDirectoryNode" />
+              <item name="bigdata" type="462c0819:PsiDirectoryNode" />
+              <item name="hos" type="462c0819:PsiDirectoryNode" />
+              <item name="common" type="462c0819:PsiDirectoryNode" />
+              <item name="ObjectUtil" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="xvjun-hos-service" type="b2602c69:ProjectViewProjectNode" />
+              <item name="xvjun-hos-service" type="462c0819:PsiDirectoryNode" />
+              <item name="xvjun-hos-common" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+              <item name="xvjun" type="462c0819:PsiDirectoryNode" />
+              <item name="bigdata" type="462c0819:PsiDirectoryNode" />
+              <item name="hos" type="462c0819:PsiDirectoryNode" />
+              <item name="common" type="462c0819:PsiDirectoryNode" />
+              <item name="Utils" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="xvjun-hos-service" type="b2602c69:ProjectViewProjectNode" />
+              <item name="xvjun-hos-service" type="462c0819:PsiDirectoryNode" />
+              <item name="xvjun-hos-core" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="xvjun-hos-service" type="b2602c69:ProjectViewProjectNode" />
+              <item name="xvjun-hos-service" type="462c0819:PsiDirectoryNode" />
+              <item name="xvjun-hos-core" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="xvjun-hos-service" type="b2602c69:ProjectViewProjectNode" />
+              <item name="xvjun-hos-service" type="462c0819:PsiDirectoryNode" />
+              <item name="xvjun-hos-core" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="xvjun-hos-service" type="b2602c69:ProjectViewProjectNode" />
+              <item name="xvjun-hos-service" type="462c0819:PsiDirectoryNode" />
+              <item name="xvjun-hos-core" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="xvjun-hos-service" type="b2602c69:ProjectViewProjectNode" />
+              <item name="xvjun-hos-service" type="462c0819:PsiDirectoryNode" />
+              <item name="xvjun-hos-core" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="xvjun-hos-service" type="b2602c69:ProjectViewProjectNode" />
+              <item name="xvjun-hos-service" type="462c0819:PsiDirectoryNode" />
+              <item name="xvjun-hos-core" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+              <item name="xvjun" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="xvjun-hos-service" type="b2602c69:ProjectViewProjectNode" />
+              <item name="xvjun-hos-service" type="462c0819:PsiDirectoryNode" />
+              <item name="xvjun-hos-core" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+              <item name="xvjun" type="462c0819:PsiDirectoryNode" />
+              <item name="bigdata" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="xvjun-hos-service" type="b2602c69:ProjectViewProjectNode" />
+              <item name="xvjun-hos-service" type="462c0819:PsiDirectoryNode" />
+              <item name="xvjun-hos-core" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+              <item name="xvjun" type="462c0819:PsiDirectoryNode" />
+              <item name="bigdata" type="462c0819:PsiDirectoryNode" />
+              <item name="hos" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="xvjun-hos-service" type="b2602c69:ProjectViewProjectNode" />
+              <item name="xvjun-hos-service" type="462c0819:PsiDirectoryNode" />
+              <item name="xvjun-hos-core" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+              <item name="xvjun" type="462c0819:PsiDirectoryNode" />
+              <item name="bigdata" type="462c0819:PsiDirectoryNode" />
+              <item name="hos" type="462c0819:PsiDirectoryNode" />
+              <item name="core" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="xvjun-hos-service" type="b2602c69:ProjectViewProjectNode" />
+              <item name="xvjun-hos-service" type="462c0819:PsiDirectoryNode" />
+              <item name="xvjun-hos-core" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+              <item name="xvjun" type="462c0819:PsiDirectoryNode" />
+              <item name="bigdata" type="462c0819:PsiDirectoryNode" />
+              <item name="hos" type="462c0819:PsiDirectoryNode" />
+              <item name="core" type="462c0819:PsiDirectoryNode" />
+              <item name="authmgr" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="xvjun-hos-service" type="b2602c69:ProjectViewProjectNode" />
+              <item name="xvjun-hos-service" type="462c0819:PsiDirectoryNode" />
+              <item name="xvjun-hos-core" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+              <item name="xvjun" type="462c0819:PsiDirectoryNode" />
+              <item name="bigdata" type="462c0819:PsiDirectoryNode" />
+              <item name="hos" type="462c0819:PsiDirectoryNode" />
+              <item name="core" type="462c0819:PsiDirectoryNode" />
+              <item name="authmgr" type="462c0819:PsiDirectoryNode" />
+              <item name="dao" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="xvjun-hos-service" type="b2602c69:ProjectViewProjectNode" />
+              <item name="xvjun-hos-service" type="462c0819:PsiDirectoryNode" />
+              <item name="xvjun-hos-core" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+              <item name="xvjun" type="462c0819:PsiDirectoryNode" />
+              <item name="bigdata" type="462c0819:PsiDirectoryNode" />
+              <item name="hos" type="462c0819:PsiDirectoryNode" />
+              <item name="core" type="462c0819:PsiDirectoryNode" />
+              <item name="authmgr" type="462c0819:PsiDirectoryNode" />
+              <item name="model" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="xvjun-hos-service" type="b2602c69:ProjectViewProjectNode" />
+              <item name="xvjun-hos-service" type="462c0819:PsiDirectoryNode" />
+              <item name="xvjun-hos-core" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+              <item name="xvjun" type="462c0819:PsiDirectoryNode" />
+              <item name="bigdata" type="462c0819:PsiDirectoryNode" />
+              <item name="hos" type="462c0819:PsiDirectoryNode" />
+              <item name="core" type="462c0819:PsiDirectoryNode" />
+              <item name="authmgr" type="462c0819:PsiDirectoryNode" />
+              <item name="service" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="xvjun-hos-service" type="b2602c69:ProjectViewProjectNode" />
+              <item name="xvjun-hos-service" type="462c0819:PsiDirectoryNode" />
+              <item name="xvjun-hos-core" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+              <item name="xvjun" type="462c0819:PsiDirectoryNode" />
+              <item name="bigdata" type="462c0819:PsiDirectoryNode" />
+              <item name="hos" type="462c0819:PsiDirectoryNode" />
+              <item name="core" type="462c0819:PsiDirectoryNode" />
+              <item name="authmgr" type="462c0819:PsiDirectoryNode" />
+              <item name="service" type="462c0819:PsiDirectoryNode" />
+              <item name="Impl" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="xvjun-hos-service" type="b2602c69:ProjectViewProjectNode" />
+              <item name="xvjun-hos-service" type="462c0819:PsiDirectoryNode" />
+              <item name="xvjun-hos-mybatis" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="xvjun-hos-service" type="b2602c69:ProjectViewProjectNode" />
+              <item name="xvjun-hos-service" type="462c0819:PsiDirectoryNode" />
+              <item name="xvjun-hos-mybatis" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="xvjun-hos-service" type="b2602c69:ProjectViewProjectNode" />
+              <item name="xvjun-hos-service" type="462c0819:PsiDirectoryNode" />
+              <item name="xvjun-hos-mybatis" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="xvjun-hos-service" type="b2602c69:ProjectViewProjectNode" />
+              <item name="xvjun-hos-service" type="462c0819:PsiDirectoryNode" />
+              <item name="xvjun-hos-mybatis" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="xvjun-hos-service" type="b2602c69:ProjectViewProjectNode" />
+              <item name="xvjun-hos-service" type="462c0819:PsiDirectoryNode" />
+              <item name="xvjun-hos-mybatis" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="xvjun-hos-service" type="b2602c69:ProjectViewProjectNode" />
+              <item name="xvjun-hos-service" type="462c0819:PsiDirectoryNode" />
+              <item name="xvjun-hos-mybatis" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+              <item name="xvjun" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="xvjun-hos-service" type="b2602c69:ProjectViewProjectNode" />
+              <item name="xvjun-hos-service" type="462c0819:PsiDirectoryNode" />
+              <item name="xvjun-hos-mybatis" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+              <item name="xvjun" type="462c0819:PsiDirectoryNode" />
+              <item name="bigdata" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="xvjun-hos-service" type="b2602c69:ProjectViewProjectNode" />
+              <item name="xvjun-hos-service" type="462c0819:PsiDirectoryNode" />
+              <item name="xvjun-hos-mybatis" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+              <item name="xvjun" type="462c0819:PsiDirectoryNode" />
+              <item name="bigdata" type="462c0819:PsiDirectoryNode" />
+              <item name="hos" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="xvjun-hos-service" type="b2602c69:ProjectViewProjectNode" />
+              <item name="xvjun-hos-service" type="462c0819:PsiDirectoryNode" />
+              <item name="xvjun-hos-mybatis" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+              <item name="xvjun" type="462c0819:PsiDirectoryNode" />
+              <item name="bigdata" type="462c0819:PsiDirectoryNode" />
+              <item name="hos" type="462c0819:PsiDirectoryNode" />
+              <item name="mybatis" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="xvjun-hos-service" type="b2602c69:ProjectViewProjectNode" />
+              <item name="xvjun-hos-service" type="462c0819:PsiDirectoryNode" />
+              <item name="xvjun-hos-sdk" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="xvjun-hos-service" type="b2602c69:ProjectViewProjectNode" />
+              <item name="xvjun-hos-service" type="462c0819:PsiDirectoryNode" />
+              <item name="xvjun-hos-sdk" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="xvjun-hos-service" type="b2602c69:ProjectViewProjectNode" />
+              <item name="xvjun-hos-service" type="462c0819:PsiDirectoryNode" />
+              <item name="xvjun-hos-sdk" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="xvjun-hos-service" type="b2602c69:ProjectViewProjectNode" />
+              <item name="xvjun-hos-service" type="462c0819:PsiDirectoryNode" />
+              <item name="xvjun-hos-sdk" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="xvjun-hos-service" type="b2602c69:ProjectViewProjectNode" />
+              <item name="xvjun-hos-service" type="462c0819:PsiDirectoryNode" />
+              <item name="xvjun-hos-sdk" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="xvjun-hos-service" type="b2602c69:ProjectViewProjectNode" />
+              <item name="xvjun-hos-service" type="462c0819:PsiDirectoryNode" />
+              <item name="xvjun-hos-sdk" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+              <item name="xvjun" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="xvjun-hos-service" type="b2602c69:ProjectViewProjectNode" />
+              <item name="xvjun-hos-service" type="462c0819:PsiDirectoryNode" />
+              <item name="xvjun-hos-sdk" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+              <item name="xvjun" type="462c0819:PsiDirectoryNode" />
+              <item name="bigdata" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="xvjun-hos-service" type="b2602c69:ProjectViewProjectNode" />
+              <item name="xvjun-hos-service" type="462c0819:PsiDirectoryNode" />
+              <item name="xvjun-hos-sdk" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+              <item name="xvjun" type="462c0819:PsiDirectoryNode" />
+              <item name="bigdata" type="462c0819:PsiDirectoryNode" />
+              <item name="hos" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="xvjun-hos-service" type="b2602c69:ProjectViewProjectNode" />
+              <item name="xvjun-hos-service" type="462c0819:PsiDirectoryNode" />
+              <item name="xvjun-hos-sdk" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+              <item name="xvjun" type="462c0819:PsiDirectoryNode" />
+              <item name="bigdata" type="462c0819:PsiDirectoryNode" />
+              <item name="hos" type="462c0819:PsiDirectoryNode" />
+              <item name="sdk" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="xvjun-hos-service" type="b2602c69:ProjectViewProjectNode" />
+              <item name="xvjun-hos-service" type="462c0819:PsiDirectoryNode" />
+              <item name="xvjun-hos-sdk" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="resources" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="xvjun-hos-service" type="b2602c69:ProjectViewProjectNode" />
+              <item name="xvjun-hos-service" type="462c0819:PsiDirectoryNode" />
+              <item name="xvjun-hos-server" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="xvjun-hos-service" type="b2602c69:ProjectViewProjectNode" />
+              <item name="xvjun-hos-service" type="462c0819:PsiDirectoryNode" />
+              <item name="xvjun-hos-server" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="xvjun-hos-service" type="b2602c69:ProjectViewProjectNode" />
+              <item name="xvjun-hos-service" type="462c0819:PsiDirectoryNode" />
+              <item name="xvjun-hos-server" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="xvjun-hos-service" type="b2602c69:ProjectViewProjectNode" />
+              <item name="xvjun-hos-service" type="462c0819:PsiDirectoryNode" />
+              <item name="xvjun-hos-web" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="xvjun-hos-service" type="b2602c69:ProjectViewProjectNode" />
+              <item name="xvjun-hos-service" type="462c0819:PsiDirectoryNode" />
+              <item name="xvjun-hos-web" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="xvjun-hos-service" type="b2602c69:ProjectViewProjectNode" />
+              <item name="xvjun-hos-service" type="462c0819:PsiDirectoryNode" />
+              <item name="xvjun-hos-web" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="xvjun-hos-service" type="b2602c69:ProjectViewProjectNode" />
+              <item name="xvjun-hos-service" type="462c0819:PsiDirectoryNode" />
+              <item name="xvjun-hos-web" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="xvjun-hos-service" type="b2602c69:ProjectViewProjectNode" />
+              <item name="xvjun-hos-service" type="462c0819:PsiDirectoryNode" />
+              <item name="xvjun-hos-web" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="xvjun-hos-service" type="b2602c69:ProjectViewProjectNode" />
+              <item name="xvjun-hos-service" type="462c0819:PsiDirectoryNode" />
+              <item name="xvjun-hos-web" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+              <item name="xvjun" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="xvjun-hos-service" type="b2602c69:ProjectViewProjectNode" />
+              <item name="xvjun-hos-service" type="462c0819:PsiDirectoryNode" />
+              <item name="xvjun-hos-web" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+              <item name="xvjun" type="462c0819:PsiDirectoryNode" />
+              <item name="bigdata" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="xvjun-hos-service" type="b2602c69:ProjectViewProjectNode" />
+              <item name="xvjun-hos-service" type="462c0819:PsiDirectoryNode" />
+              <item name="xvjun-hos-web" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+              <item name="xvjun" type="462c0819:PsiDirectoryNode" />
+              <item name="bigdata" type="462c0819:PsiDirectoryNode" />
+              <item name="hos" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="xvjun-hos-service" type="b2602c69:ProjectViewProjectNode" />
+              <item name="xvjun-hos-service" type="462c0819:PsiDirectoryNode" />
+              <item name="xvjun-hos-web" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+              <item name="xvjun" type="462c0819:PsiDirectoryNode" />
+              <item name="bigdata" type="462c0819:PsiDirectoryNode" />
+              <item name="hos" type="462c0819:PsiDirectoryNode" />
+              <item name="web" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
+    <property name="settings.editor.selected.configurable" value="preferences.keymap" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="E:\Java\xvjun-hos-service\xvjun-hos-core\src\test\resources" />
+    </key>
+    <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
+      <recent name="com.xvjun.bigdata.hos.core" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.xvjun.bigdata.hos.sdk" />
+      <recent name="com.xvjun.bigdata.hos.common.Utils" />
+      <recent name="com.xvjun.bigdata.hos.server.error" />
+      <recent name="com.xvjun.bigdata.hos.server" />
+      <recent name="com.xvjun.bigdata.hos.server.model" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="E:\Java\xvjun-hos-service\xvjun-hos-mybatis\src\test" />
+      <recent name="E:\Java\xvjun-hos-service\xvjun-hos-web\src\main\resources" />
+      <recent name="E:\Java\xvjun-hos-service\xvjun-hos-common\src\main\resources" />
+      <recent name="E:\Java\xvjun-hos-service\xvjun-hos-server\src\main\resources" />
+      <recent name="E:\Java\xvjun-hos-service\xvjun-hos-server\src\test\resources" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Application.HosServerApp">
+    <configuration name="HosServerApp" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.xvjun.bigdata.hos.web.HosServerApp" />
+      <module name="xvjun-hos-web" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.xvjun.bigdata.hos.web.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+    </configuration>
+    <configuration default="true" type="Application" factoryName="Application">
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+    </configuration>
+    <configuration name="test" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="test" />
+      <module name="xvjun-hos-server" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+    </configuration>
+    <configuration name="AuthServiceTest.addToken" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="xvjun-hos-core" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.xvjun.bigdata.hos.core.test.service.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" value="com.xvjun.bigdata.hos.core.test.service" />
+      <option name="MAIN_CLASS_NAME" value="com.xvjun.bigdata.hos.core.test.service.AuthServiceTest" />
+      <option name="METHOD_NAME" value="addToken" />
+      <option name="TEST_OBJECT" value="method" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <patterns />
+    </configuration>
+    <configuration name="BucketMapperTest.addBucket" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="xvjun-hos-server" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.xvjun.bigdata.hos.server.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" value="com.xvjun.bigdata.hos.server" />
+      <option name="MAIN_CLASS_NAME" value="com.xvjun.bigdata.hos.server.BucketMapperTest" />
+      <option name="METHOD_NAME" value="addBucket" />
+      <option name="TEST_OBJECT" value="method" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <patterns />
+    </configuration>
+    <configuration name="BucketMapperTest.getUserAuthorizedBuckets" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="xvjun-hos-server" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.xvjun.bigdata.hos.server.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" value="com.xvjun.bigdata.hos.server" />
+      <option name="MAIN_CLASS_NAME" value="com.xvjun.bigdata.hos.server.BucketMapperTest" />
+      <option name="METHOD_NAME" value="getUserAuthorizedBuckets" />
+      <option name="TEST_OBJECT" value="method" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <patterns />
+    </configuration>
+    <configuration default="true" type="JUnit" factoryName="JUnit">
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="METHOD_NAME" />
+      <option name="TEST_OBJECT" value="class" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <patterns />
+    </configuration>
+    <configuration default="true" type="TestNG" factoryName="TestNG">
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="SUITE_NAME" />
+      <option name="PACKAGE_NAME" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="METHOD_NAME" />
+      <option name="GROUP_NAME" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
+      <option name="OUTPUT_DIRECTORY" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <option name="USE_DEFAULT_REPORTERS" value="false" />
+      <option name="PROPERTIES_FILE" />
+      <properties />
+      <listeners />
+    </configuration>
+    <list>
+      <item itemvalue="JUnit.BucketMapperTest.addBucket" />
+      <item itemvalue="JUnit.AuthServiceTest.addToken" />
+      <item itemvalue="JUnit.BucketMapperTest.getUserAuthorizedBuckets" />
+      <item itemvalue="Application.test" />
+      <item itemvalue="Application.HosServerApp" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.HosServerApp" />
+        <item itemvalue="Application.test" />
+        <item itemvalue="JUnit.BucketMapperTest.getUserAuthorizedBuckets" />
+        <item itemvalue="JUnit.BucketMapperTest.addBucket" />
+        <item itemvalue="JUnit.AuthServiceTest.addToken" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="7ff16721-e650-44b9-b882-a8745b60f497" name="Default" comment="" />
+      <created>1552528355033</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1552528355033</updated>
+      <workItem from="1552528365084" duration="14541000" />
+      <workItem from="1552555277465" duration="6750000" />
+      <workItem from="1552647750381" duration="4192000" />
+      <workItem from="1552696434999" duration="25793000" />
+      <workItem from="1552784418454" duration="13705000" />
+      <workItem from="1552870326941" duration="19768000" />
+      <workItem from="1552962294790" duration="18310000" />
+      <workItem from="1553041712955" duration="1341000" />
+      <workItem from="1553072079230" duration="923000" />
+      <workItem from="1553080823129" duration="4159000" />
+      <workItem from="1553129213315" duration="597000" />
+      <workItem from="1553130593640" duration="16000" />
+      <workItem from="1553130619171" duration="16727000" />
+      <workItem from="1553313958474" duration="649000" />
+      <workItem from="1553593436657" duration="2321000" />
+      <workItem from="1553650358653" duration="6108000" />
+      <workItem from="1553735426156" duration="1839000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TestHistory">
+    <history-entry file="AuthServiceTest_addAuth - 2019.03.16 at 08h 46m 23s.xml">
+      <configuration name="AuthServiceTest.addAuth" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="AuthServiceTest_deleteAuth - 2019.03.16 at 08h 46m 32s.xml">
+      <configuration name="AuthServiceTest.deleteAuth" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="BucketMapperTest_addBucket - 2019.03.16 at 11h 17m 03s.xml">
+      <configuration name="BucketMapperTest.addBucket" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="BucketMapperTest_getBucket - 2019.03.16 at 11h 20m 26s.xml">
+      <configuration name="BucketMapperTest.getBucket" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="UserServiceTest_addUserTest - 2019.03.16 at 11h 32m 39s.xml">
+      <configuration name="UserServiceTest.addUserTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="AuthServiceTest_addToken - 2019.03.16 at 12h 10m 26s.xml">
+      <configuration name="AuthServiceTest.addToken" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="BucketMapperTest_addBucket - 2019.03.16 at 12h 12m 33s.xml">
+      <configuration name="BucketMapperTest.addBucket" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="BucketMapperTest_addBucket - 2019.03.16 at 12h 15m 44s.xml">
+      <configuration name="BucketMapperTest.addBucket" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="BucketMapperTest_getUserAuthorizedBuckets - 2019.03.16 at 12h 18m 06s.xml">
+      <configuration name="BucketMapperTest.getUserAuthorizedBuckets" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="BucketMapperTest_getUserAuthorizedBuckets - 2019.03.16 at 12h 18m 48s.xml">
+      <configuration name="BucketMapperTest.getUserAuthorizedBuckets" configurationId="JUnit" />
+    </history-entry>
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="137739000" />
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="1912" y="-8" width="1936" height="1056" extended-state="7" />
+    <editor active="true" />
+    <layout>
+      <window_info anchor="right" id="Palette" order="3" />
+      <window_info anchor="bottom" id="Event Log" order="11" side_tool="true" />
+      <window_info anchor="right" id="Maven Projects" order="10" visible="true" weight="0.10714286" />
+      <window_info anchor="bottom" id="Database Changes" order="8" show_stripe_button="false" />
+      <window_info id="Capture Tool" order="7" />
+      <window_info id="Designer" order="2" />
+      <window_info anchor="right" id="Database" order="5" />
+      <window_info id="Structure" order="1" sideWeight="0.50217867" side_tool="true" weight="0.18869936" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info id="UI Designer" order="4" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" weight="0.3278867" />
+      <window_info anchor="right" id="Palette&#9;" order="7" />
+      <window_info id="Image Layers" order="3" />
+      <window_info anchor="bottom" id="Java Enterprise" order="12" />
+      <window_info anchor="right" id="Capture Analysis" order="4" />
+      <window_info anchor="bottom" id="Version Control" order="9" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.37472767" />
+      <window_info anchor="bottom" id="Spring" order="7" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.49782136" visible="true" weight="0.21428572" />
+      <window_info anchor="right" id="Bean Validation" order="9" />
+      <window_info id="Web" order="6" side_tool="true" />
+      <window_info anchor="right" id="SciView" order="6" />
+      <window_info anchor="right" id="Theme Preview" order="8" />
+      <window_info id="Favorites" order="5" side_tool="true" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Messages" order="10" weight="0.32897604" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="bottom" id="Find" order="1" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <option name="time" value="2" />
+    </breakpoint-manager>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/xvjun-hos-common/src/main/java/com/xvjun/bigdata/hos/common/HosHeaders.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="132">
+          <caret line="6" column="31" selection-start-line="6" selection-start-column="31" selection-end-line="6" selection-end-column="31" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/apache/httpcomponents/httpcore/4.1.2/httpcore-4.1.2.jar!/org/apache/http/HttpStatus.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="280">
+          <caret line="26" column="8" selection-start-line="26" selection-start-column="8" selection-end-line="26" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/spring-web/4.3.4.RELEASE/spring-web-4.3.4.RELEASE-sources.jar!/org/springframework/web/multipart/MultipartFile.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="694">
+          <caret line="107" column="9" selection-start-line="107" selection-start-column="9" selection-end-line="107" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/xvjun-hos-common/src/main/java/com/xvjun/bigdata/hos/common/Utils/HosUtil.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="297">
+          <caret line="39" column="28" selection-start-line="39" selection-start-column="28" selection-end-line="39" selection-end-column="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/xvjun-hos-common/src/main/java/com/xvjun/bigdata/hos/common/ObjectUtil/HosObject.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="452">
+          <caret line="31" column="20" selection-start-line="31" selection-start-column="20" selection-end-line="31" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/xvjun-hos-common/src/main/java/com/xvjun/bigdata/hos/common/ObjectUtil/ObjectMetaData.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="286">
+          <caret line="13" column="26" selection-start-line="13" selection-start-column="26" selection-end-line="13" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/xvjun-hos-web/src/main/java/com/xvjun/bigdata/hos/web/rest/HosController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-452">
+          <caret line="410" column="27" selection-start-line="410" selection-start-column="27" selection-end-line="410" selection-end-column="27" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/xvjun-hos-web/src/main/java/com/xvjun/bigdata/hos/web/security/SecurityIntercepter.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2">
+          <caret line="61" column="58" lean-forward="true" selection-start-line="61" selection-start-column="58" selection-end-line="61" selection-end-column="58" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/xvjun-hos-core/src/main/java/com/xvjun/bigdata/hos/core/usermgr/service/IUserService.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="88">
+          <caret line="4" column="17" selection-start-line="4" selection-start-column="17" selection-end-line="4" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/xvjun-hos-core/src/main/java/com/xvjun/bigdata/hos/core/usermgr/service/Impl/UserServiceImpl.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="110">
+          <caret line="17" selection-start-line="17" selection-end-line="18" selection-end-column="27" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/xvjun-hos-server/src/main/java/com/xvjun/bigdata/hos/server/service/Impl/BucketServiceImpl.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="154">
+          <caret line="19" column="13" selection-start-line="19" selection-start-column="13" selection-end-line="19" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/xvjun-hos-server/src/main/java/com/xvjun/bigdata/hos/server/service/Impl/HbaseServiceImpl.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="3894">
+          <caret line="194" column="25" selection-start-line="194" selection-start-column="25" selection-end-line="194" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/xvjun-hos-server/src/main/java/com/xvjun/bigdata/hos/server/service/Impl/HdfsServiceImpl.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="88">
+          <caret line="18" column="13" selection-start-line="18" selection-start-column="13" selection-end-line="18" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/xvjun-hos-common/src/main/java/com/xvjun/bigdata/hos/common/HosConfiguration.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="604">
+          <caret line="45" selection-start-line="45" selection-end-line="45" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/xvjun-hos-server/src/main/java/com/xvjun/bigdata/hos/server/service/IHosStoreService.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="88">
+          <caret line="11" column="17" selection-start-line="11" selection-start-column="17" selection-end-line="11" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/xvjun-hos-server/src/main/java/com/xvjun/bigdata/hos/server/service/Impl/HosStoreServiceImpl.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="197">
+          <caret line="34" column="13" selection-start-line="34" selection-start-column="13" selection-end-line="34" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/xvjun-hos-web/src/main/java/com/xvjun/bigdata/hos/web/ApplicationInitialization.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="396">
+          <caret line="18" column="36" selection-start-line="18" selection-start-column="36" selection-end-line="18" selection-end-column="36" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/xvjun-hos-web/src/main/java/com/xvjun/bigdata/hos/web/HosServerBeanConfiguration.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="440">
+          <caret line="50" column="1" selection-start-line="50" selection-start-column="1" selection-end-line="50" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/xvjun-hos-web/src/main/resources/application.properties">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="504">
+          <caret line="28" column="47" selection-start-line="28" selection-start-column="47" selection-end-line="28" selection-end-column="47" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/xvjun-hos-web/src/main/resources/log4j.properties">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/xvjun-hos-web/src/main/resources/mybatis-config.xml">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/xvjun-hos-mybatis/src/test/java/com/xvjun/bigdata/hos/mybatis/test/BaseTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="286">
+          <caret line="20" column="24" selection-start-line="20" selection-start-column="24" selection-end-line="20" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/xvjun-hos-mybatis/src/test/resources/log4j.properties">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/xvjun-hos-common/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-378" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="626">
+          <caret line="64" column="31" selection-start-line="64" selection-start-column="31" selection-end-line="64" selection-end-column="31" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/xvjun-hos-core/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="352">
+          <caret line="16" column="18" selection-start-line="16" selection-start-column="18" selection-end-line="16" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/xvjun-hos-core/src/test/java/com/xvjun/bigdata/hos/core/test/service/AuthServiceTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="352">
+          <caret line="16" column="5" selection-end-line="72" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/xvjun-hos-core/src/test/java/com/xvjun/bigdata/hos/core/test/service/UserServiceTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="506">
+          <caret line="23" column="32" selection-start-line="23" selection-start-column="32" selection-end-line="23" selection-end-column="32" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/xvjun-hos-server/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="638">
+          <caret line="29" column="8" selection-start-line="29" selection-start-column="12" selection-end-line="35" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/xvjun-hos-server/src/test/java/test.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="44">
+          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/xvjun-hos-server/src/test/java/com/xvjun/bigdata/hos/server/BucketMapperTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="836">
+          <caret line="38" column="34" selection-end-line="72" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/xvjun-hos-server/src/test/java/com/xvjun/bigdata/hos/server/HBaseServiceImplTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="88">
+          <caret line="4" selection-start-line="4" selection-end-line="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/xvjun-hos-mybatis/pom.xml">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/xvjun-hos-web/src/main/java/com/xvjun/bigdata/hos/web/HosServerApp.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="198">
+          <caret line="22" column="35" selection-start-line="22" selection-start-column="35" selection-end-line="22" selection-end-column="35" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/xvjun-hos-web/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1540">
+          <caret line="70" column="69" selection-start-line="70" selection-start-column="69" selection-end-line="70" selection-end-column="69" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/xvjun-hos-core/src/main/java/com/xvjun/bigdata/hos/core/authmgr/dao/ServiceAuthMapper.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="132">
+          <caret line="9" column="17" selection-start-line="9" selection-start-column="17" selection-end-line="9" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/xvjun-hos-core/src/main/java/com/xvjun/bigdata/hos/core/authmgr/dao/TokenInfoMapper.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="132">
+          <caret line="12" column="17" selection-start-line="12" selection-start-column="17" selection-end-line="12" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/xvjun-hos-core/src/main/java/com/xvjun/bigdata/hos/core/authmgr/service/Impl/AuthServiceImpl.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="154">
+          <caret line="18" column="13" selection-start-line="18" selection-start-column="13" selection-end-line="18" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/xvjun-hos-mybatis/src/main/java/com/xvjun/bigdata/hos/mybatis/HikariDataSourceFactory.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="176">
+          <caret line="9" column="13" selection-start-line="9" selection-start-column="13" selection-end-line="9" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/xvjun-hos-mybatis/src/main/java/com/xvjun/bigdata/hos/mybatis/HosDataSourceConfig.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="264">
+          <caret line="27" column="13" selection-start-line="27" selection-start-column="13" selection-end-line="27" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/xvjun-hos-common/src/main/java/com/xvjun/bigdata/hos/common/Utils/HbaseUtil.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="88">
+          <caret line="10" column="13" selection-start-line="10" selection-start-column="13" selection-end-line="10" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/xvjun-hos-sdk/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="836">
+          <caret line="38" column="21" selection-start-line="38" selection-start-column="21" selection-end-line="38" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/xvjun-hos-common/src/main/java/com/xvjun/bigdata/hos/common/Utils/IdUtil.java">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/xvjun-hos-common/src/main/java/com/xvjun/bigdata/hos/common/ObjectUtil/PutRequest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="616">
+          <caret line="29" column="29" selection-start-line="29" selection-start-column="29" selection-end-line="29" selection-end-column="29" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/xvjun-hos-common/src/main/java/com/xvjun/bigdata/hos/common/ObjectUtil/ListObjectRequest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="242">
+          <caret line="11" column="31" selection-start-line="11" selection-start-column="31" selection-end-line="11" selection-end-column="31" />
+          <folding>
+            <element signature="e#311#312#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/xvjun-hos-sdk/src/main/java/com/xvjun/bigdata/hos/sdk/HosClient.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="704">
+          <caret line="37" column="48" selection-start-line="37" selection-start-column="48" selection-end-line="37" selection-end-column="48" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/xvjun-hos-sdk/src/main/java/com/xvjun/bigdata/hos/sdk/HosClientFactory.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="286">
+          <caret line="14" column="51" selection-start-line="14" selection-start-column="51" selection-end-line="14" selection-end-column="51" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/xvjun-hos-sdk/src/main/java/com/xvjun/bigdata/hos/sdk/MimeUtil.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="220">
+          <caret line="12" column="79" selection-start-line="12" selection-start-column="69" selection-end-line="12" selection-end-column="79" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/xvjun-hos-sdk/src/main/java/com/xvjun/bigdata/hos/sdk/HosClientImpl.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="824">
+          <caret line="479" column="75" lean-forward="true" selection-start-line="479" selection-start-column="75" selection-end-line="479" selection-end-column="75" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="method#HosClientImpl#0;class#HosClientImpl#0" />
+            <element signature="method#deleteBucket#0;class#HosClientImpl#0" />
+            <element signature="method#listBucket#0;class#HosClientImpl#0" />
+            <element signature="method#buildHeaders#0;class#HosClientImpl#0" />
+            <element signature="method#putObject#0;class#HosClientImpl#0" />
+            <element signature="method#putObject#1;class#HosClientImpl#0" />
+            <element signature="method#putObject#2;class#HosClientImpl#0" />
+            <element signature="method#getObjectSummary#0;class#HosClientImpl#0" />
+            <element signature="method#deleteObject#0;class#HosClientImpl#0" />
+            <element signature="method#putObject#3;class#HosClientImpl#0" />
+            <element signature="method#putObject#4;class#HosClientImpl#0" />
+            <element signature="method#putObject#5;class#HosClientImpl#0" />
+            <element signature="method#putObject#6;class#HosClientImpl#0" />
+            <element signature="method#listObject#0;class#HosClientImpl#0" />
+            <element signature="method#listObject#1;class#HosClientImpl#0" />
+            <element signature="method#listObjectByPrefix#0;class#HosClientImpl#0" />
+            <element signature="method#listObjectByDir#0;class#HosClientImpl#0" />
+            <element signature="docComment;method#getObject#0;class#HosClientImpl#0" />
+            <element signature="method#getObject#0;class#HosClientImpl#0" />
+            <element signature="method#buildMetaData#0;class#HosClientImpl#0" />
+            <element signature="method#createBucket#1;class#HosClientImpl#0" />
+            <element signature="method#getBucketInfo#0;class#HosClientImpl#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/xvjun-hos-sdk/src/main/resources/mime.types">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1716">
+          <caret line="78" column="42" selection-start-line="78" selection-start-column="42" selection-end-line="78" selection-end-column="42" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/xvjun-hos-sdk/src/main/java/com/xvjun/bigdata/hos/sdk/HosSdkTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="308">
+          <caret line="14" column="25" selection-start-line="14" selection-start-column="25" selection-end-line="14" selection-end-column="25" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ArtifactsStructureConfigurable.UI">
+        <settings>
+          <artifact-editor />
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="FacetStructureConfigurable.UI">
+        <settings>
+          <last-edited>No facets are configured</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="GlobalLibrariesConfigurable.UI">
+        <settings>
+          <last-edited>Python 3.6 (1) interpreter library</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="JdkListConfigurable.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ModuleStructureConfigurable.UI">
+        <settings>
+          <last-edited>xvjun-hos-mybatis</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+                <option value="0.6" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>

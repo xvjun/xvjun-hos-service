@@ -1,0 +1,12 @@
+com\xvjun\bigdata\hos\web\HosServerApp$1.class
+com\xvjun\bigdata\hos\web\security\IOperationAccessControl.class
+com\xvjun\bigdata\hos\web\rest\ManageController.class
+com\xvjun\bigdata\hos\web\HosServerApp.class
+com\xvjun\bigdata\hos\web\rest\LoginController.class
+com\xvjun\bigdata\hos\web\ApplicationInitialization.class
+com\xvjun\bigdata\hos\web\HosServerBeanConfiguration.class
+com\xvjun\bigdata\hos\web\security\ContextUtil.class
+com\xvjun\bigdata\hos\web\security\DefaultOperationAccessControl.class
+com\xvjun\bigdata\hos\web\rest\BaseController.class
+com\xvjun\bigdata\hos\web\rest\HosController.class
+com\xvjun\bigdata\hos\web\security\SecurityIntercepter.class
